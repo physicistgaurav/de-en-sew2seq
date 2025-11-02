@@ -45,6 +45,12 @@ python train.py
 ```
 It saves the model as best_model.path.tar which will be used for testing.
 
+## Testing
+
+```
+python test.py
+```
+
 BLEU Score achieved: 27.53 after running 20 epochs.
 
 ## MODEl Performance after 20 epochs:
