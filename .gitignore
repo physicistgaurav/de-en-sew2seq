@@ -1,0 +1,4 @@
+.venv_new/
+__pycache__/
+my_checkpoint.pth.tar
+best_model.pth.tar
